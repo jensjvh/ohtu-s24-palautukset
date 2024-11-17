@@ -23,7 +23,3 @@ Reset Application And Go To Starting Page
 
 Go To Starting Page
     Go To  ${HOME_URL}
-
-Register Page Should Be Open
-    ${CURRENT_URL}=  Get Location
-    Should Be Equal  ${CURRENT_URL}  ${REGISTER_URL}
