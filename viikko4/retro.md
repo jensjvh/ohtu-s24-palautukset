@@ -1,0 +1,7 @@
+# 5. Retrospektiivitekniikat
+
+Retrospektiivitekniikat Start, Stop, Continue, More of, Less of Wheel ja Glad, Sad, Mad perustuvat molemmat palautteiden kategorioimiseen, mutta eroavat toteutukseltaan.
+
+Start, Stop, Continue, More of, Less of Wheel on tekniikka, jossa piirretään paperille ympyrä joka on jaettu viiteen osioon. Tämän jälkeen järjestäjä, usein scrum master, pyytää tiimin jäseniä lisäämään kommentteja osioihin. Start-osioon mitä pitäisi alkaa tekemään, Stop-osioon mikä pitäisi lopettaa, Continue-osioon mitä on toiminut ja mitä jatketaan samaan malliin, More of -osioon mitä halutaan tehdä lisää ja Less of -osioon mitä halutaan tehdä vähemmän.
+
+Glad, Sad, Mad tekniikassa taas tiimin jäsenet kirjoittavat kortteihin jonkin kommentin, ja piirretään taululle kolme saraketta, Glad, Sad ja Mad, joihin tiimin jäsenet sijoittavat korttinsa tunteidensa mukaan. Sad ja Mad ovat molemmat negatiivisille kommenteille, mutta Mad rohkaisee kommentoimaan tiimin ulkopuolisia haittoja. Seuraavaksi kortit ryhmitellään samoja asioita koskeviksi joukoiksi, ja tiimi äänestää keskusteltavien korttien prioriteetin. Lopuksi kortteja keskustellaan tärkeysjärjestyksessä, kunnes aika tai asiat loppuvat.
