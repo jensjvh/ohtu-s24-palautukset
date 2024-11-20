@@ -16,3 +16,5 @@ class Kauppa:
             self._yhteishinta,
             self._viitegeneraattori.uusi()
         )
+
+# change 1
